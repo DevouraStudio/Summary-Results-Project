@@ -176,3 +176,24 @@ h1.h1 {
 #Forth-Span {
 	color: hsla(224, 30%, 27%, 50%);
 }
+
+div.btn {
+	background: hsl(224, 30%, 27%);
+	margin-left: 1.5rem;
+	width: 22rem;
+	border-radius: 35px;
+	color: white;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	margin-top: 2rem;
+	border: none;
+}
+
+div.btn:hover {
+	background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+	color: white;
+}
+
+div.btn:active {
+	border: none;
+}
