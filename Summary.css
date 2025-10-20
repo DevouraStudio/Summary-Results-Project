@@ -197,3 +197,49 @@ div.btn:hover {
 div.btn:active {
 	border: none;
 }
+
+@media (min-width: 375px) and (max-width: 1200px) {
+	body {
+		padding-bottom: 4rem;
+	}
+
+	div.card {
+		width: 26rem;
+		height: 64rem;
+	}
+
+	div.row {
+		margin: 0;
+	}
+
+	#First-Col {
+		width: 26rem;
+		height: 32rem;
+	}
+
+	#Second-Col {
+		width: 26rem;
+		height: 32rem;
+		padding-right: 0;
+	}
+
+	p.lead {
+		margin-top: 0.5rem;
+		letter-spacing: normal;
+		padding-right: 1rem;
+		padding-left: 1rem;
+		text-align: center justify;
+	}
+
+	h1.h1 {
+		padding-top: 1rem;
+		padding-left: 0.5rem;
+	}
+
+	#First-Alert,
+	#Second-Alert,
+	#Third-Alert,
+	#Forth-Alert {
+		margin-left: 0.5rem;
+	}
+}
