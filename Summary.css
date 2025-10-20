@@ -92,3 +92,87 @@ h1.h1 {
 	padding-top: 1.5rem;
 	padding-left: 1.5rem;
 }
+
+#First-Alert {
+	background-color: hsla(0, 100%, 67%, 5%);
+	width: 22rem;
+	margin-left: 1.5rem;
+	margin-top: 2rem;
+}
+
+#Second-Alert {
+	background-color: hsla(39, 100%, 56%, 5%);
+	width: 22rem;
+	margin-left: 1.5rem;
+}
+
+#Third-Alert {
+	background-color: hsla(166, 100%, 37%, 5%);
+	width: 22rem;
+	margin-left: 1.5rem;
+}
+
+#Forth-Alert {
+	background-color: hsla(234, 85%, 45%, 5%);
+	width: 22rem;
+	margin-left: 1.5rem;
+}
+
+#Reaction {
+	color: hsl(0, 100%, 67%);
+	font-weight: 600;
+}
+
+#Memory {
+	color: hsl(39, 100%, 56%);
+	font-weight: 600;
+}
+
+#Verbal {
+	color: hsl(166, 100%, 37%);
+	font-weight: 600;
+}
+
+#Visual {
+	color: hsl(234, 85%, 45%);
+	font-weight: 600;
+}
+
+#First-Div {
+	color: black;
+	font-weight: 700;
+	margin-right: 0;
+	padding: 0;
+	margin-left: 8.75rem;
+}
+
+#Second-Div {
+	color: black;
+	font-weight: 700;
+	margin-right: 0;
+	padding: 0;
+	margin-left: 9rem;
+}
+
+#Third-Div {
+	color: black;
+	font-weight: 700;
+	margin-right: 0;
+	padding: 0;
+	margin-left: 9.75rem;
+}
+
+#Forth-Div {
+	color: black;
+	font-weight: 700;
+	margin-right: 0;
+	padding: 0;
+	margin-left: 10rem;
+}
+
+#First-Span,
+#Second-Span,
+#Third-Span,
+#Forth-Span {
+	color: hsla(224, 30%, 27%, 50%);
+}
