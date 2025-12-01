@@ -17,7 +17,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Overview
 
-### The challenge
+### The challenge:
 
 Users should be able to:
 
@@ -25,19 +25,19 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 - **Bonus**: Use the local JSON data to dynamically populate the content
 
-### Screenshot
+### Screenshots:
 
 ![Desktop](/Screenshot.png)
 ![Mobile](/Screenshot2.png)
 
-### Links
+### Links:
 
-- Solution URL: [Add solution URL here](https://github.com/DevouraStudio/Summary-Results-Project)
-- Live Site URL: [Add live site URL here](https://devourastudio.github.io/Summary-Results-Project/)
+- Solution URL: [solution URL](https://github.com/DevouraStudio/Summary-Results-Project)
+- Live Site URL: [live site URL](https://devourastudio.github.io/Summary-Results-Project/)
 
 ## My process
 
-### Built with
+### Built with:
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -47,13 +47,13 @@ Users should be able to:
 - CSS Media Queries
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
 
-### What I learned
+### What I learned:
 
-"Although this project presented numerous challenges and difficulties, it was ultimately completed successfully. One of the main challenges involved creating the numerical circle that represented the final score. Thanks to Bootstrap, this feature was no longer a significant issue in HTML; however, developing that circle provided me with valuable personal lessons.
+"Although This Project Presented Numerous Challenges And Difficulties, It Was Ultimately Completed Successfully. One Of The Main Challenges Involved Creating The Numerical Circle That Represented The Final Score. Thanks To Bootstrap, This Feature Was No Longer A Significant Issue In HTML; However, Developing That Circle Provided Me With Valuable Personal Lessons.
 
-Most of the challenges I faced were related to the styling language, CSS, which even led me to rewrite the entire CSS code twice during development. Using Bootstrap’s grid system in this project was particularly frustrating for me, as it frequently caused layout issues while writing the CSS file.
+Most Of The Challenges I Faced Were Related To The Styling Language, CSS, Which Even Led Me To Rewrite The Entire CSS Code Twice During Development. Using Bootstrap’s Grid System In This Project Was Particularly Frustrating For Me, As It Frequently Caused Layout Issues While Writing The CSS File.
 
-Ensuring the design’s responsiveness also required more time than in my previous projects, as I needed to adjust the size properties of several elements. Overall, this project was more complex than my earlier ones, but it reinforced an important belief — that with persistence, anything is possible."
+Ensuring The Design’s Responsiveness Also Required More Time Than In My Previous Projects, As I Needed To Adjust The Size Properties Of Several Elements. Overall, This Project Was More Complex Than My Earlier Ones, But It Reinforced An Important Belief — That With Persistence, Anything Is Possible."
 
 ```html
 <div class="container" id="Num-Div">
@@ -109,12 +109,13 @@ Ensuring the design’s responsiveness also required more time than in my previo
 }
 ```
 
-### Continued development
+### Continued development:
 
-"In the future, I plan to make greater use of the Bootstrap grid system in my projects in order to fully understand its core principles and strengths. Through my research on other front-end web development projects, I have realized how effectively the grid system — and even Flexbox — can help organize and coordinate the layout of elements on web pages.
+"In The Future, I Plan To Make Greater Use Of The Bootstrap Grid System In My Projects In Order To Fully Understand Its Core Principles And Strengths. Through My Research On Other Front-End Web Development Projects, I Have Realized How Effectively The Grid System — And Even Flexbox — Can Help Organize And Coordinate The Layout Of Elements On Web Pages.
 
-I also intend to work on more advanced and complex projects in the near future, particularly those that involve the use of JavaScript."
-### Useful resources
+I Also Intend To Work On More Advanced And Complex Projects In The Near Future, Particularly Those That Involve The Use Of JavaScript."
+
+### Useful resources:
 
 - [MDN](https://developer.mozilla.org/en-US/) - "During This Project, I Frequently Referred to the Mozilla Developer Network (MDN) Website as a Trusted Resource for Learning and Clarifying HTML, CSS, and JavaScript. MDN Provided Clear Documentation, Practical Examples, and Best Practices That Helped Me Solve Challenges More Efficiently. Using MDN Not Only Improved My Technical Accuracy but Also Strengthened My Confidence in Applying Modern Web Standards to My Work."
 
@@ -126,6 +127,5 @@ I also intend to work on more advanced and complex projects in the near future, 
 
 - Website - [DevouraStudio](https://www.devoura.ir)
 - Frontend Mentor - [@DevouraStudio](https://www.frontendmentor.io/profile/DevouraStudio)
-- Dribble - [@DevouraStudio](https://www.dribbble.com/DevouraStudio)
 - Github - [@DevouraStudio](https://www.github.com/DevouraStudio)
 - Codepen - [@DevouraStudio](https://www.codepen.io/DevouraStudio)
