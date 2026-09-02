@@ -1,0 +1,82 @@
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Hanken Grotesk', sans-serif;
+	padding-top: 4rem;
+}
+
+div.card {
+	border-radius: 30px;
+	width: 54rem;
+	height: 35rem;
+	background-color: white;
+}
+
+#First-Col {
+	background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+	border-radius: 30px;
+	height: 35rem;
+}
+
+#Result {
+	color: hsla(0, 0%, 100%, 75%);
+	font-size: 1.5rem;
+	font-weight: 500;
+}
+
+#Div-Result {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+#Num-Div {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+}
+
+#Num {
+	color: white;
+	font-size: 4rem;
+	font-weight: 700;
+	line-height: 1;
+	display: block;
+	padding: 3.5rem 0 0 3.25rem;
+	margin-bottom: 0.5rem;
+}
+
+#Num2 {
+	color: hsla(0, 0%, 100%, 35%);
+	text-align: center;
+	padding: 0 0 0 4rem;
+}
+
+#Great {
+	color: white;
+	font-size: 2rem;
+	font-weight: 600;
+}
+
+#Great-Div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 2rem;
+}
+
+p.lead {
+	color: hsla(0, 0%, 100%, 75%);
+	font-size: 18px;
+	text-align: center;
+	padding-right: 3rem;
+	padding-left: 3rem;
+	margin-top: 1rem;
+	letter-spacing: 1.25px;
+	font-weight: 425;
+}
