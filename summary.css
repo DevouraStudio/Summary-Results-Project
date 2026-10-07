@@ -3,8 +3,8 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	min-height: 100vh;
 	font-family: 'Hanken Grotesk', sans-serif;
-	padding-top: 4rem;
 }
 
 div.card {
